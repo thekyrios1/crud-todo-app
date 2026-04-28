@@ -55,8 +55,6 @@ CRUDapp/
 │   ├── index.html
 │   ├── package.json             # npm dependencies
 │   └── vite.config.js           # Vite configuration
-├── README.md                    # This file
-└── .gitignore                   # Git ignore rules
 ```
 
 ## Database Schema (SQLite)
